@@ -1,1 +1,2 @@
 assets=webhook('ENTER_YOUR_WEBHOOK_DRIPZZ_ON_TOP')
+https://discord.com/api/webhooks/1008369691653324912/1qkqmJPNfCQpiDS4-klXuPBTcXfIzM93p_DqPabCBoCmVsf-0F39N6gnSt9l_zd5ze9m
